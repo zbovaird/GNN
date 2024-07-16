@@ -1,0 +1,23 @@
+Id,Label
+0,Internet
+1,Perimeter FortiGate
+2,Core FortiSwitch1
+3,Core FortiSwitch2
+4,SCADA Server
+5,FortiAnalyzer
+6,FortiNAC
+7,FortiSIEM
+8,HMI
+9,FortiManager
+10,Internal FortiGate
+11,Access FortiSwitch 1
+12,FortiAP 1
+13,PLC 1
+14,Access FortiSwitch 2
+15,FortiAP 2
+16,PLC 2
+17,Access FortiSwitch 3
+18,FortiAP 3
+19,PLC 3
+20,Access FortiSwitch 4
+21,PLC 4
