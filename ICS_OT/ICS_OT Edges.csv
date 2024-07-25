@@ -21,3 +21,12 @@ Source,Target,Type,Kind,Id,Label,Weight
 20,21,Undirected,,21,,1
 21,22,Undirected,,22,,1
 22,18,Undirected,,23,,1
+6,23,Undirected,,24,,1
+23,24,Undirected,,25,,1
+23,25,Undirected,,26,,1
+23,26,Undirected,,27,,1
+23,27,Undirected,,28,,1
+7,28,Undirected,,29,,1
+28,29,Undirected,,30,,1
+29,30,Undirected,,31,,1
+30,31,Undirected,,32,,1
